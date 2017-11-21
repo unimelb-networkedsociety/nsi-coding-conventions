@@ -1,4 +1,4 @@
-# Python Programing Style:
+# Python Programming Style:
 
 * Each file starts with the following format:
 

@@ -1,4 +1,4 @@
-# Swift Programing Style:
+# Swift Programming Style:
 1. Using uppercase for types and protocols, lowercase for everything else <sub><sup>[1]</sup></sub>.
 2. Using camel case.
 3. Indentation : Indent using 2 spaces rather than tabs to conserve space and help prevent line wrapping.<sub><sup>[1]</sup></sub>

@@ -1,12 +1,5 @@
 # NSI Coding Standard
 
-NSI Lab has provided our coding standards for different programming languages to help you avoid 
-1. Spaghetti code (dirt is everywhere)
-2. Lasagna code (dirt is between layers) 
-3. and Tortelli code (dirt is just inside each piece)
-
-Please find the link below for your preferred language!
-
 ### Covered Languages:
 1. [Python](docs/python-standard.md)
 2. [Swift](docs/swift-standard.md)
